@@ -1,0 +1,16 @@
+body {
+    font-size: 20px;
+}
+
+button:not(.getAddtionalInfo) {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.main.hidden {
+    display: none;
+}
+
+#endedRound {
+    margin-top: 15px;
+}
